@@ -11,7 +11,7 @@ This repository contains my current resume for Sales Analyst, Sales Operations, 
 * Excel and Power BI Reporting
 * Pipeline Visibility
 * Process Improvement
-* Customer and Sales Data
+* Customer and Sales Datam
 
 ## Resume
 
